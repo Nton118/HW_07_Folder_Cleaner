@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+include Clean_folder/config.txt
+recursive-include Clean_folder/data *
